@@ -111,7 +111,7 @@ body {
   border: solid 2px #f3f7f7;
   cursor: pointer;
 }
-.content .button a {
+.content a {
   color: inherit;
   text-decoration: none;
 }
